@@ -142,9 +142,9 @@ Vehicle-level integration and remote control must remain subject to industry/sup
 
 | Member | Role |
 | --- | --- |
-| Kanzah Zeeshan | Team member |
-| Zaid Ahmed Siddiqui | Team lead / group leader |
+| Zaid Ahmed Siddiqui | Team lead |
 | Abdul Nasir | Team member |
+| Kanzah Zeeshan | Team member |
 | Sonia Salman | Team member |
 
 **Supervisor:** Miss Dr. Najma Ismat  
